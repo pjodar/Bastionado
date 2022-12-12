@@ -1,0 +1,8 @@
+set_var EASYRSA_REQ_COUNTRY "ES"
+set_var EASYRSA_REQ_PROVINCE "Castellon"
+set_var EASYRSA_REQ_CITY "Castellon"
+set_var EASYRSA_REQ_ORG "hospitales"
+set_var EASYRSA_REQ_EMAIL "administrador@san-gva.ciber"
+set_var EASYRSA_REQ_OU "san-gva.ciber"
+set_var EASYRSA_ALGO "ec"
+set_var EASYRSA_DIGEST "sha512"
